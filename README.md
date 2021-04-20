@@ -1,2 +1,1 @@
-# POO
-Sistema Comercial
+# Sistema Comercial
